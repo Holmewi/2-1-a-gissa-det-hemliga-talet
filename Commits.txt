@@ -1,0 +1,11 @@
+
+Commit 1
+Created the class SecretNumber and the variables within. 
+Initialized the values of the variable in the Initialize method and returned the values in the constructor method SecretNumber
+
+Commit 2
+Created the method MakeGuess with a little bit of testing. 
+Still need to sort the counting of the guesses to go negative from 7.
+
+Commit 3
+Fixed the remaining guesses to count correctly
