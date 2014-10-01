@@ -8,6 +8,8 @@ namespace _1DV402.S2.L1A
 {
     public class SecretNumber
     {
+        // Mina commits skickades inte i väg på grund av att jag var i fel mapp. 
+        // Jag har lagt upp mina commits i en text-fil som heter Commits
         public const int MaxNumberOfGuesses = 7;
         private int _count;
         private int _number;
